@@ -1,0 +1,71 @@
+.home:hover{
+    background-color: darkblue;
+}
+.home2:hover{
+    background-color: darkcyan;
+}
+.home3:hover{
+    background-color: darkorange;
+}
+.bg1{
+    background-color: darkcyan;
+}
+.bg2{
+    background-color: darkslategrey;
+}
+.footer{
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: burlywood;
+    padding: 10px;
+
+}
+a{
+    margin-right: 20px;
+    text-decoration: none;
+    background-color:maroon;
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+}
+nav{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    padding: 20px;
+    border: 3px solid darkgreen;
+    box-shadow: 20px 20px 30px darkgray;
+    display: block;
+    margin: auto;
+}
+table {
+   border: 1px soli d blue;
+   border-collapse: collapse;
+   
+}
+td {
+ border: 1px solid blue;
+ padding: 5px;
+}
+tr:nth-child(odd){
+    background-color:indigo
+}
+tr:hover{
+    background-color: lightgrey;
+}
+a:hover{
+    background-color: ivory;
+    color:black;
+    padding: 10px;
+}
+tr:nth-child(even){
+    background-color:cornflowerblue ;
+}
